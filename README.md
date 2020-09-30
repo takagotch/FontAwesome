@@ -37,14 +37,14 @@ https://fontawesome.com/icons/heart
 ```
 | Files & Folders | What They Are | Where You should Start |
 |-|-|-|
-| x | x | all.css |
-| | | all.js |
-| | | fontawesome.less |
-| | | fontawesome.scss |
-| | | solid.svg |
-| | | individual *.svg icon |
-| | | See /css |
-| | | all.js|
+| /css | Stylesheets for Web Fonts | all.css |
+| /js | SVG with JavaScript | all.js |
+| /less | Less pre-processor | fontawesome.less |
+| /scss | Sass pre-processor | fontawesome.scss |
+| /sprites| Individual SVG for each icon | solid.svg |
+| /svgs | Individual SVG for each icon | individual *.svg icon |
+| /webfonts | Web Font files used with CSS | See /css |
+| | |  |
 
 
 
