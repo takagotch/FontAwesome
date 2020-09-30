@@ -35,10 +35,16 @@ https://fontawesome.com/icons/heart
 <i class="fas fa-heart"></i>
 
 ```
-| x | x | x |
+| Files & Folders | What They Are | Where You should Start |
 |-|-|-|
-| x | x | x |
-| | | |
+| x | x | all.css |
+| | | all.js |
+| | | fontawesome.less |
+| | | fontawesome.scss |
+| | | solid.svg |
+| | | individual *.svg icon |
+| | | See /css |
+| | | all.js|
 
 
 
