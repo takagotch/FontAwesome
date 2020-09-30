@@ -27,6 +27,24 @@ https://fontawesome.com/icons/facebook-f?style=brands
 
 ```
 
+```html
+<!--
+Hert Icon | FontAwesome
+https://fontawesome.com/icons/heart
+-->
+<i class="fas fa-heart"></i>
+
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
 ```
 ```
 
