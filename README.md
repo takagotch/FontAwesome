@@ -35,6 +35,7 @@ https://fontawesome.com/icons/heart
 <i class="fas fa-heart"></i>
 
 ```
+
 | Files & Folders | What They Are | Where You should Start |
 |-|-|-|
 | /css | Stylesheets for Web Fonts | all.css |
@@ -46,7 +47,7 @@ https://fontawesome.com/icons/heart
 | /webfonts | Web Font files used with CSS | See /css |
 | | |  |
 
-```
+
 
 ```html
 <head>
