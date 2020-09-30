@@ -46,19 +46,25 @@ https://fontawesome.com/icons/heart
 | /webfonts | Web Font files used with CSS | See /css |
 | | |  |
 
-
-
-
-```
 ```
 
-```
+```html
+<head>
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+</head>
+<body>
+  <i class="fas fa-download fa-2x"></i>
+  <i class="fa fa-mobile fa-2x"></i>
+  ...
+</body>
 ```
 
 ```
 ```
 
 ```
+```
+
 ```
 
 
