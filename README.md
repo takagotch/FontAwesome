@@ -35,6 +35,9 @@ https://fontawesome.com/icons/heart
 -->
 <i class="fas fa-heart"></i>
 
+<i class="fa fa-envelope-o" aria-hidden="true"></i>
+
+
 ```
 
 | Files & Folders | What They Are | Where You should Start |
