@@ -9,6 +9,9 @@ https://github.com/takagotch/IconFont
 ###### Google Fonts
 https://fonts.google.com/
 
+###### jsdelivr
+https://github.com/takagotch/jsdelivr/blob/master/README.md
+
 ```
 // FontAwesome 6
 // facebook
